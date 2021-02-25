@@ -14,7 +14,7 @@
         "outputPath": "/Users/kittiphon.c/Desktop/Test Project/TodoApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kittiphon.c/.config/NuGet/NuGet.Config"
+          "/Users/kittiphon.c/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -46,9 +46,19 @@
               "target": "Package",
               "version": "[5.0.3, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[5.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
