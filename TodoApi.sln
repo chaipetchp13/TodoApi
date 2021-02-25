@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi", "TodoApi.csproj", "{286F903C-6F60-4466-880E-7263B5961517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286F903C-6F60-4466-880E-7263B5961517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286F903C-6F60-4466-880E-7263B5961517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286F903C-6F60-4466-880E-7263B5961517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286F903C-6F60-4466-880E-7263B5961517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB9BECBD-6716-478F-A27F-4031C09DAD19}
+	EndGlobalSection
+EndGlobal
