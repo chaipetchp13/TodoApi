@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "w2alaU3eBzycVpLtkfOZ0ogisx+r7Cdk41XyNny8PjdNsK2Lpj3t1/uNSqhyXyo5GkDtjvPDYz1R/1OLflWzMg==",
+  "success": true,
+  "projectFilePath": "/Users/kittiphon.c/Desktop/Test Project/TodoApi/TodoApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/kittiphon.c/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/kittiphon.c/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/kittiphon.c/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/kittiphon.c/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/kittiphon.c/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/kittiphon.c/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
