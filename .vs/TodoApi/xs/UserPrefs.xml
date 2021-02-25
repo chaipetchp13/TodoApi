@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{286F903C-6F60-4466-880E-7263B5961517}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/TodoContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
     <Files>
-      <File FileName="Models/TodoContext.cs" Line="6" Column="42" />
+      <File FileName="Models/TodoContext.cs" Line="6" Column="43" />
+      <File FileName="Startup.cs" Line="14" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TodoApi" expanded="True">
             <Node name="TodoApi" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="TodoContext.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
