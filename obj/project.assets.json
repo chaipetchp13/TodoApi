@@ -7983,7 +7983,7 @@
       "outputPath": "/Users/kittiphon.c/Desktop/Test Project/TodoApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kittiphon.c/.nuget/NuGet/NuGet.Config"
+        "/Users/kittiphon.c/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
